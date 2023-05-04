@@ -1,5 +1,6 @@
 @echo on
 
+cd /d "C:\Users\eljanmuhammed\Documents\Git\Reinforcement-Learning"
 :: Add all changes to the staging area
 git add .
 

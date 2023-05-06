@@ -1,0 +1,20 @@
+Visual of the given details is printed above 
+World Number:  5
+Current state row and column:  12   18
+Current state:  458
+Taken action to come to the current state from the previous state:  2
+Reward of the current state:  -1.0
+cumulative reward from the world so far:  -198653.0
+printing the response: 
+ {'code': 'OK', 'worldId': 5, 'runId': '50292', 'reward': 10000, 'scoreIncrement': 0, 'newState': None}
+test except
+printing before terminal state: 
+ {'code': 'OK', 'worldId': 5, 'runId': '50292', 'reward': 10000, 'scoreIncrement': 0, 'newState': None}
+5  ended
+[  0.   3.   2.   2. 186.   4.   2.   2.   2.   2.   2.]
+5  world selected for iteration
+learning rate alpha 0.9
+exploration rate epsilon 0.7
+{"code":"OK","teamId":1343}
+printing the response: 
+ {'code': 'OK', 'worldId': 5, 'runId': '50293', 'reward': -1, 'scoreIncrement': -1, 'newState': {'x': 0, 'y': '0'}}

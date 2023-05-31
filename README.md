@@ -1,7 +1,3 @@
-#	Team 12 - AI-lliance X&O
-##	Elshan Naghizade, Tural Mehtiyev, Ali Asgarov, Eljan Mahammadli
-
-
 # Reinforcement Learning for Grid World Navigation
 This Python script provides an implementation of a Q-Learning algorithm for navigating grid worlds. It utilizes an API to interact with a series of grid worlds, with the goal of learning an optimal policy for navigating each world. The algorithm learns from trial and error by iteratively updating a Q-table that stores action values for each state in each world.
 
